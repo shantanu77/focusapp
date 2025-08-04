@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Facebook",
+    "Host": "facebook.com"
+  },
+  {
+    "Name": "YouTube",
+    "Host": "youtube.com"
+  },
+  {
+    "Name": "Twitter",
+    "Host": "twitter.com"
+  }
+]
