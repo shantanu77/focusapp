@@ -30,6 +30,7 @@ namespace FocusApp
 
         static void Main(string[] args)
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
             LoadConfig();
             Console.WriteLine("FocusApp v1.3");
             CommandLoop();
